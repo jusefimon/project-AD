@@ -112,12 +112,11 @@ My goal is to develop knowledge and practical skills in experimental research, b
 - [ ] Python Programming
 - [ ] Machine Learning
 - [ ] Computational Drug Discovery
-
----
+    
 
 ## 💡 Important Note
 
-> Learning continuously, exploring science, and developing research skills step by step.
+> Learning continuously, exploring science, and developing research skills step by step. 
 
 ---
 
