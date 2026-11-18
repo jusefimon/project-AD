@@ -87,34 +87,7 @@ My goal is to develop knowledge and practical skills in experimental research, b
 
 ---
 
-## 🧪 Programming Practice
 
-### R Programming
-
-```r
-# Create a numeric vector
-values <- c(10, 20, 30, 40, 50)
-
-# Calculate mean
-mean(values)
-
-# Calculate standard deviation
-sd(values)
-```
-
-### Python Programming
-
-```python
-# Create a list
-values = [10, 20, 30, 40, 50]
-
-# Calculate mean
-mean_value = sum(values) / len(values)
-
-print(mean_value)
-```
-
----
 
 ## 🌐 Useful Links
 
